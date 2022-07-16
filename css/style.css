@@ -256,13 +256,15 @@ main {
   max-width: 100%;
   height: 800px;
   position: relative;
+  z-index: 2;
 }
 
 .bc-mini {
   position: absolute;
   top: 0;
-  width: 100%;
+  max-width: 100%;
   height: 800px;
+  z-index: 1;
 }
 
 .start-window {
