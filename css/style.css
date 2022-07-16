@@ -255,6 +255,14 @@ main {
 .main-screen {
   max-width: 100%;
   height: 800px;
+  position: relative;
+}
+
+.bc-mini {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 800px;
 }
 
 .start-window {
