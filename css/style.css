@@ -640,8 +640,8 @@ main {
 }
 .footer input {
   position: absolute;
-  top: 1px;
-  left: 0;
+  top: 1.2px;
+  left: 1.2px;
   border-radius: 12px;
   background-color: #000;
   height: 48px;
@@ -686,9 +686,6 @@ main {
     width: 100%;
   }
   .footer input {
-    position: absolute;
-    top: 1px;
-    left: 0;
     border-radius: 12px;
     background-color: #000;
     height: 48px;
